@@ -16,7 +16,7 @@ body{
 
 .container{
     margin:10% auto;
-    padding: 80px 0;
+    padding: 4rem 0;
     /* text-align: center; */
     display: flex;
     flex-direction: column;
